@@ -1,0 +1,2 @@
+# HideMyEx
+A Chrome Extension
